@@ -88,7 +88,7 @@ class ATM {
 }
 
 // Main class to run the program
-public class Atm {
+public class ATM {
     public static void main(String[] args) {
         // Initial balance is ₹1000
         BankAccount myAccount = new BankAccount(1000);
